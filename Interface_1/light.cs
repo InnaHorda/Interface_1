@@ -8,7 +8,7 @@ namespace Interface_1
     {
         public void Swich_on()
         {
-            Console.WriteLine("Light is swiching on");
+            Console.WriteLine("Light  is swiching on");
         }
         public void Swich_of()
         {
